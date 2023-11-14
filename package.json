@@ -1,0 +1,10 @@
+{
+  "name": "converter-celsius-fahrenheit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A simple temperature converter from celsius to fahrenheit and vice versa",
+  "repository": "https://github.com/usama455/temperature-converter.git",
+  "author": "Muhammad Usama",
+  "license": "MIT"
+}
+
